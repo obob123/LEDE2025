@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: JDCloud_AX1800_Pro
+name: JDCloud_AX1800_Pro_lede
 on:
   repository_dispatch:
   workflow_dispatch:
